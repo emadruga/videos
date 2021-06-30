@@ -1,0 +1,7 @@
++ webpack-hot-middleware@2.25.0
++ type-fest@0.13.1
++ ts-node@10.0.0
++ webpack-plugin-serve@0.12.1
+added 81 packages from 36 contributors, updated 1 package and audited 2013 packages in 11.348s
+found 5 vulnerabilities (3 moderate, 2 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
